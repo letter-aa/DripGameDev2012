@@ -1,3 +1,5 @@
+NOTE: MOST - MAYBE EVEN ALL - OF MY REPOSITORIES WILL BE PRIVATE. SORRY IF YOU DON'T SEE ANY REPOSITORIES ON MY PROFILE...
+
 - 👋 Hi, I’m @DripGameDev2012
 - 👀 I’m interested in ... Game Development, and the others listed in LINE 3.
 - 🌱 I’m currently learning ... GitHub, Game Development, Python, C#, (maybe) HTML, (maybe) CSS, (maybe) Javascript, (maybe) Git, Piano, Karate, Scouting, and more!
