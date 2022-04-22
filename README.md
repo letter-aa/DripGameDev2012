@@ -1,3 +1,5 @@
+(bruhhh my account was created on april's fool day never realised that)
+
 NOTE: MOST - MAYBE EVEN ALL - OF MY REPOSITORIES WILL BE PRIVATE. SORRY IF YOU DON'T SEE ANY REPOSITORIES ON MY PROFILE...
 
 - 👋 Hi, I’m @DripGameDev2012
