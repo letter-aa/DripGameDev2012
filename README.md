@@ -1,5 +1,3 @@
-(bruhhh my account was created on april's fool day never realised that)
-
 - 👋 Hi, I’m @DripGameDev2012
 - 👀 I’m interested in ... Game Development, and the others listed in LINE 3.
 - 🌱 I’m currently learning ... GitHub, Game Development, Python, C#, (maybe) HTML, (maybe) CSS, (maybe) Javascript, (maybe) Git, Piano, Karate, Scouting, and more!
