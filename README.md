@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @DripGameDev2012
-- 👀 I’m interested in ... Game Development, and the others listed in LINE 3.
-- 🌱 I’m currently learning ... GitHub, Game Development, Python, C#, (maybe) HTML, (maybe) CSS, (maybe) Javascript, (maybe) Git, LUA, Piano, Karate, and more!
-- 💞️ I’m looking to collaborate on ... games, Python scripts, C# scripts, and more!
-- 📫 How to reach me ... _______blank_______
+- 👀 I’m interested in ... C++
+- 🌱 I’m currently learning ... (not learning rn) Python, (not learning rn) C#
+- 💅 I know ... Lua, C++ (somewhat), HTML, CSS, Javascript (somewhat)
+- 💞️ I’m looking to collaborate on ... Roblox games
+- 📫 How to reach me ... 
+**GMAIL**:_childofthestars254@gmail.com__
+**DISCORD**: _goose#3895_ or _g_oose_
 
 <!---
 DripGameDev2012/DripGameDev2012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
