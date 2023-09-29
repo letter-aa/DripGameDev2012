@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DripGameDev2012
 - 👀 I’m interested in ... C++
-- 🌱 I’m currently learning ... (not learning rn) Python, (not learning rn) C#
+- 🌱 I’m currently learning ... C++, (not learning rn) Python, (not learning rn) C#
 - 💅 I know ... Lua, C++ (somewhat), HTML, CSS, Javascript (somewhat)
 - 💞️ I’m looking to collaborate on ... Roblox games
 - 📫 How to reach me ... 
