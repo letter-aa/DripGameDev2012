@@ -4,7 +4,7 @@
 - 💅 I know ... Lua, C++ (somewhat), HTML, CSS, Javascript (somewhat)
 - 💞️ I’m looking to collaborate on ... Roblox games
 - 📫 How to reach me ... 
-**GMAIL**:_childofthestars254@gmail.com__
+**GMAIL**:_childofthestars254@gmail.com_
 **DISCORD**: _goose#3895_ or _g_oose_
 
 <!---
